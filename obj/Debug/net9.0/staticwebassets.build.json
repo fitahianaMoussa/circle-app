@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wtdZQFonhQiEP+kEZA50eOuNcKNm6Tn+vRGe3qSZ9b0=",
+  "Hash": "7mtZmnrDJPF1UOvdCOt+ZKXo7POo7RubRUtCrHmHsUk=",
   "Source": "circleApp",
   "BasePath": "_content/circleApp",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/05sswnb5nz-7n9n0swffm.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/scripts/shCore#[.{fingerprint=7n9n0swffm}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shCore.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j8hyb02h8z",
+      "Integrity": "PSlposrnjtWpWACgrMhaJvrIFvZcB5+GAKjSG3KPOPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shCore.js"
+    },
     {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/09f4zwepl3-37tfw0ft22.gz",
       "SourceId": "circleApp",
@@ -101,6 +122,27 @@
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
     },
     {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2barl5jcd2-6w9j14fygc.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/scripts/shBrushJScript#[.{fingerprint=6w9j14fygc}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushJScript.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "it8bm02j96",
+      "Integrity": "ZrepqDgQD8E0mrVoRASBPsHqKIieQoBW3GjkdRv7cJw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushJScript.js"
+    },
+    {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2llw0jgjrb-r4e9w2rdcm.gz",
       "SourceId": "circleApp",
       "SourceType": "Discovered",
@@ -120,6 +162,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2rd377t4db-pmrwgncoh8.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/styles/shCore#[.{fingerprint=pmrwgncoh8}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCore.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xpq21i7wr2",
+      "Integrity": "xYwvgCFq2EdDpREU6TmyaaSGCbRWG2JjQGy6yPtkM1Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCore.css"
     },
     {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/3nvcn9mh2x-y7v9cxd14o.gz",
@@ -185,6 +248,27 @@
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/lib/jquery/dist/jquery.js"
     },
     {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/50g4cl1mgq-52a20dwd0l.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/scripts/shBrushXml#[.{fingerprint=52a20dwd0l}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushXml.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fntb1n4gqv",
+      "Integrity": "2we9wLkRt4U/TUuS8DnJ/AMarrrbfbIPETnwl0kTK7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushXml.js"
+    },
+    {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/5qkf3otizr-h1s4sie4z3.gz",
       "SourceId": "circleApp",
       "SourceType": "Discovered",
@@ -246,6 +330,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/scopedcss/projectbundle/circleApp.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/6vx1o2vq8n-rssjosyve1.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "css/tailwind#[.{fingerprint=rssjosyve1}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/css/tailwind.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mjdbvv5iqh",
+      "Integrity": "UkT2nIXyGltADaIiCIMi7CWrnOcyWIfK1gh9Y81r0Yw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/css/tailwind.css"
     },
     {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/7t5c3qm265-cosvhxvwiu.gz",
@@ -311,6 +416,27 @@
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/ai0ruk677j-6f9r9drxcn.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "js/script#[.{fingerprint=6f9r9drxcn}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/js/script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "r07za5yvaf",
+      "Integrity": "S2x+tKlzMRRJnaeRQ2Llm3kpJ+tcjBWIwoZXhVKpCug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/js/script.js"
+    },
+    {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/bhi993hspp-87fc7y1x7t.gz",
       "SourceId": "circleApp",
       "SourceType": "Discovered",
@@ -372,6 +498,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/lib/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/d8yqscwtma-mz2bba8ryg.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "css/style#[.{fingerprint=mz2bba8ryg}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/css/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9tl8w9x753",
+      "Integrity": "kyuQW1y/aYaw3zuozIri+WMioSzOub7gayrApaD3Xoo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/css/style.css"
     },
     {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/dhokcusm3k-d7shbmvgxk.gz",
@@ -456,27 +603,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
-    },
-    {
-      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/gdmcbvefej-b9sayid5wm.gz",
-      "SourceId": "circleApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/circleApp",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/css/site.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "pw5l7j5n1s",
-      "Integrity": "KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/css/site.css"
     },
     {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/gfowpp9g4w-jj8uyg4cgr.gz",
@@ -729,6 +855,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/scopedcss/bundle/circleApp.styles.css"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/kku2zubgzs-n9dwubpwf7.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "js/uikit.min#[.{fingerprint=n9dwubpwf7}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/js/uikit.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gmun055gu8",
+      "Integrity": "OIHMaErDkj/rnbyemQ1EXHPMZKQNn97ghSAXiAWySmU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/js/uikit.min.js"
     },
     {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/lglyv4j4xn-dxx9fxp4il.gz",
@@ -1004,6 +1151,27 @@
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/q0f7r6u1f4-lxzyflrzcn.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "js/simplebar#[.{fingerprint=lxzyflrzcn}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/js/simplebar.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xjt9iwi916",
+      "Integrity": "3S/hsulGxaxDll3Tk0/inE2qxMeyURGKbPxarf9E5xg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/js/simplebar.js"
+    },
+    {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/qwjgmwgr37-ausgxo2sd3.gz",
       "SourceId": "circleApp",
       "SourceType": "Discovered",
@@ -1214,6 +1382,27 @@
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
+      "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/vbnszsn43n-naq7nvi4fe.gz",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/styles/shCoreMidnight#[.{fingerprint=naq7nvi4fe}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCoreMidnight.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jwifbgpgqk",
+      "Integrity": "jTeqdxufjmmuyIuB6/jhywxEJB92zCQ6hLVsXFrmoJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCoreMidnight.css"
+    },
+    {
       "Identity": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/wu78nm4nzf-bqjiyaj88i.gz",
       "SourceId": "circleApp",
       "SourceType": "Discovered",
@@ -1403,12 +1592,12 @@
       "OriginalItemSpec": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/scopedcss/projectbundle/circleApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/apple/Documents/circleApp/wwwroot/css/site.css",
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/css/style.css",
       "SourceId": "circleApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
       "BasePath": "_content/circleApp",
-      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1417,11 +1606,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "mz2bba8ryg",
+      "Integrity": "HolI7c9QSdGMbRR2aDyVM6jrKhhjJLY4RxjY734QuYA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/css/tailwind.css",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "css/tailwind#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rssjosyve1",
+      "Integrity": "df/kvkXI3aasknOERuY0RTlqH9xYbCnCA+dth1JGh+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/tailwind.css"
     },
     {
       "Identity": "/Users/apple/Documents/circleApp/wwwroot/favicon.ico",
@@ -1445,6 +1655,174 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/images/favicon.png",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "images/favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "03hjdpxr8t",
+      "Integrity": "PN4yBfV9YYkQWIXLjp0CXwnxIboil3/vPcGhGaNGSDA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/favicon.png"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/images/icons/group-2.png",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "images/icons/group-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fz2kvfek51",
+      "Integrity": "G0exmkr+wlhHmzHnOrLQvmm0//caZ/3Vk/YDX51EPb4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/icons/group-2.png"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/images/icons/home.png",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "images/icons/home#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9digs2qg7o",
+      "Integrity": "A7uuy66aN+XH9EWN7Tobyd1UOBbTIUvhCGnW+qvHbr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/icons/home.png"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/images/icons/page.png",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "images/icons/page#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "237y6cifis",
+      "Integrity": "olEnS2Dvmhuk9rJaSNSjBWxWeDiDFQ2WTdYXzag3BAo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/icons/page.png"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/images/icons/video.png",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "images/icons/video#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ip9h76r9w",
+      "Integrity": "p8lWTYSEZXm3LZWacRQw1jqjQ3zT61rD8HZvT58Ioso=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/icons/video.png"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/images/logo.png",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "esigtp5g82",
+      "Integrity": "4qtDB0RngIr5AocaSTB16aleDDVgswWQOhA/gKgyiug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/logo.png"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/js/script.js",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "js/script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6f9r9drxcn",
+      "Integrity": "clUZSlZup9IXCTQsTqUxHpz/qRdOFHY0E/usgvp4yk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/script.js"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/js/simplebar.js",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "js/simplebar#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lxzyflrzcn",
+      "Integrity": "l8KlAypSYEjheZwy103paC9XB/rvzbxigwjRIPxYZv8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/simplebar.js"
+    },
+    {
       "Identity": "/Users/apple/Documents/circleApp/wwwroot/js/site.js",
       "SourceId": "circleApp",
       "SourceType": "Discovered",
@@ -1464,6 +1842,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/js/uikit.min.js",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "js/uikit.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n9dwubpwf7",
+      "Integrity": "1XqHKE3ZHD6bryMzb4L7SF4U2bsVmOV1aRc00IFX5N0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/uikit.min.js"
     },
     {
       "Identity": "/Users/apple/Documents/circleApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
@@ -2724,6 +3123,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushJScript.js",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/scripts/shBrushJScript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6w9j14fygc",
+      "Integrity": "1lkYw8Otty18ckku2fke1wRhL0YoLeJdoSgW/gabtZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/syntax-highlighter/scripts/shBrushJScript.js"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushXml.js",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/scripts/shBrushXml#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "52a20dwd0l",
+      "Integrity": "k8xkpdnZ0Xe48KIHCd3ojBg0g39IdEefTBxX+i2gJdo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/syntax-highlighter/scripts/shBrushXml.js"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shCore.js",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/scripts/shCore#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7n9n0swffm",
+      "Integrity": "bb9GVIefdbetJ+Jn99Lt7Qg3Otk5n9pyjQaNeR1UOtw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/syntax-highlighter/scripts/shCore.js"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCore.css",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/styles/shCore#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pmrwgncoh8",
+      "Integrity": "HyD+mLfFbDyrfiQDr2tcWnn94hlvG6jrOOVUxIGQ3tw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/syntax-highlighter/styles/shCore.css"
+    },
+    {
+      "Identity": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCoreMidnight.css",
+      "SourceId": "circleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Documents/circleApp/wwwroot/",
+      "BasePath": "_content/circleApp",
+      "RelativePath": "syntax-highlighter/styles/shCoreMidnight#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "naq7nvi4fe",
+      "Integrity": "3/PrTt8wU2hqINtxFk8AkoiG5d1HF7h9+zafq6MgRr8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/syntax-highlighter/styles/shCoreMidnight.css"
     }
   ],
   "Endpoints": [
@@ -3324,13 +3828,13 @@
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/gdmcbvefej-b9sayid5wm.gz",
+      "Route": "css/style.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/d8yqscwtma-mz2bba8ryg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.000255362615"
         }
       ],
       "ResponseHeaders": [
@@ -3340,19 +3844,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "3915"
         },
         {
           "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
+          "Value": "\"kyuQW1y/aYaw3zuozIri+WMioSzOub7gayrApaD3Xoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 16:35:37 GMT"
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3368,27 +3872,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"HolI7c9QSdGMbRR2aDyVM6jrKhhjJLY4RxjY734QuYA=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-HolI7c9QSdGMbRR2aDyVM6jrKhhjJLY4RxjY734QuYA="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/css/site.css",
+      "Route": "css/style.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/css/style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3397,7 +3893,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "22224"
         },
         {
           "Name": "Content-Type",
@@ -3405,35 +3901,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"HolI7c9QSdGMbRR2aDyVM6jrKhhjJLY4RxjY734QuYA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 16:35:37 GMT"
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-HolI7c9QSdGMbRR2aDyVM6jrKhhjJLY4RxjY734QuYA="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/gdmcbvefej-b9sayid5wm.gz",
+      "Route": "css/style.css.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/d8yqscwtma-mz2bba8ryg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3442,7 +3930,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "3915"
         },
         {
           "Name": "Content-Type",
@@ -3450,15 +3938,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
+          "Value": "\"kyuQW1y/aYaw3zuozIri+WMioSzOub7gayrApaD3Xoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 16:35:37 GMT"
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3471,27 +3959,19 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA="
+          "Value": "sha256-kyuQW1y/aYaw3zuozIri+WMioSzOub7gayrApaD3Xoo="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/gdmcbvefej-b9sayid5wm.gz",
+      "Route": "css/style.mz2bba8ryg.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/d8yqscwtma-mz2bba8ryg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.000255362615"
         }
       ],
       "ResponseHeaders": [
@@ -3501,15 +3981,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "3915"
         },
         {
           "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
+          "Value": "\"kyuQW1y/aYaw3zuozIri+WMioSzOub7gayrApaD3Xoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 16:35:37 GMT"
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HolI7c9QSdGMbRR2aDyVM6jrKhhjJLY4RxjY734QuYA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mz2bba8ryg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HolI7c9QSdGMbRR2aDyVM6jrKhhjJLY4RxjY734QuYA="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.mz2bba8ryg.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HolI7c9QSdGMbRR2aDyVM6jrKhhjJLY4RxjY734QuYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mz2bba8ryg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HolI7c9QSdGMbRR2aDyVM6jrKhhjJLY4RxjY734QuYA="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.mz2bba8ryg.css.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/d8yqscwtma-mz2bba8ryg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kyuQW1y/aYaw3zuozIri+WMioSzOub7gayrApaD3Xoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mz2bba8ryg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kyuQW1y/aYaw3zuozIri+WMioSzOub7gayrApaD3Xoo="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/6vx1o2vq8n-rssjosyve1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000044798853"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22321"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UkT2nIXyGltADaIiCIMi7CWrnOcyWIfK1gh9Y81r0Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 17:57:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3529,19 +4170,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"df/kvkXI3aasknOERuY0RTlqH9xYbCnCA+dth1JGh+g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-df/kvkXI3aasknOERuY0RTlqH9xYbCnCA+dth1JGh+g="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/css/site.css",
+      "Route": "css/tailwind.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/css/tailwind.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3550,7 +4191,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "165923"
         },
         {
           "Name": "Content-Type",
@@ -3558,11 +4199,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"df/kvkXI3aasknOERuY0RTlqH9xYbCnCA+dth1JGh+g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 16:35:37 GMT"
+          "Value": "Tue, 04 Mar 2025 17:57:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3572,13 +4213,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-df/kvkXI3aasknOERuY0RTlqH9xYbCnCA+dth1JGh+g="
         }
       ]
     },
     {
-      "Route": "css/site.css.gz",
-      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/gdmcbvefej-b9sayid5wm.gz",
+      "Route": "css/tailwind.css.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/6vx1o2vq8n-rssjosyve1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3587,7 +4228,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "22321"
         },
         {
           "Name": "Content-Type",
@@ -3595,11 +4236,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
+          "Value": "\"UkT2nIXyGltADaIiCIMi7CWrnOcyWIfK1gh9Y81r0Yw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 16:35:37 GMT"
+          "Value": "Tue, 04 Mar 2025 17:57:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3617,7 +4258,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA="
+          "Value": "sha256-UkT2nIXyGltADaIiCIMi7CWrnOcyWIfK1gh9Y81r0Yw="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.rssjosyve1.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/6vx1o2vq8n-rssjosyve1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000044798853"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22321"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UkT2nIXyGltADaIiCIMi7CWrnOcyWIfK1gh9Y81r0Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 17:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"df/kvkXI3aasknOERuY0RTlqH9xYbCnCA+dth1JGh+g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rssjosyve1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tailwind.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-df/kvkXI3aasknOERuY0RTlqH9xYbCnCA+dth1JGh+g="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.rssjosyve1.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/css/tailwind.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"df/kvkXI3aasknOERuY0RTlqH9xYbCnCA+dth1JGh+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 17:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rssjosyve1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tailwind.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-df/kvkXI3aasknOERuY0RTlqH9xYbCnCA+dth1JGh+g="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.rssjosyve1.css.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/6vx1o2vq8n-rssjosyve1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UkT2nIXyGltADaIiCIMi7CWrnOcyWIfK1gh9Y81r0Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 17:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rssjosyve1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tailwind.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UkT2nIXyGltADaIiCIMi7CWrnOcyWIfK1gh9Y81r0Yw="
         }
       ]
     },
@@ -3920,6 +4722,1094 @@
       ]
     },
     {
+      "Route": "images/favicon.03hjdpxr8t.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PN4yBfV9YYkQWIXLjp0CXwnxIboil3/vPcGhGaNGSDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03hjdpxr8t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PN4yBfV9YYkQWIXLjp0CXwnxIboil3/vPcGhGaNGSDA="
+        }
+      ]
+    },
+    {
+      "Route": "images/favicon.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PN4yBfV9YYkQWIXLjp0CXwnxIboil3/vPcGhGaNGSDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PN4yBfV9YYkQWIXLjp0CXwnxIboil3/vPcGhGaNGSDA="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/group-2.fz2kvfek51.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/icons/group-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G0exmkr+wlhHmzHnOrLQvmm0//caZ/3Vk/YDX51EPb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fz2kvfek51"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/group-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G0exmkr+wlhHmzHnOrLQvmm0//caZ/3Vk/YDX51EPb4="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/group-2.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/icons/group-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G0exmkr+wlhHmzHnOrLQvmm0//caZ/3Vk/YDX51EPb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G0exmkr+wlhHmzHnOrLQvmm0//caZ/3Vk/YDX51EPb4="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/home.9digs2qg7o.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/icons/home.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7uuy66aN+XH9EWN7Tobyd1UOBbTIUvhCGnW+qvHbr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9digs2qg7o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/home.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7uuy66aN+XH9EWN7Tobyd1UOBbTIUvhCGnW+qvHbr0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/home.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/icons/home.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7uuy66aN+XH9EWN7Tobyd1UOBbTIUvhCGnW+qvHbr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7uuy66aN+XH9EWN7Tobyd1UOBbTIUvhCGnW+qvHbr0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/page.237y6cifis.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/icons/page.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"olEnS2Dvmhuk9rJaSNSjBWxWeDiDFQ2WTdYXzag3BAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "237y6cifis"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/page.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-olEnS2Dvmhuk9rJaSNSjBWxWeDiDFQ2WTdYXzag3BAo="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/page.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/icons/page.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"olEnS2Dvmhuk9rJaSNSjBWxWeDiDFQ2WTdYXzag3BAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-olEnS2Dvmhuk9rJaSNSjBWxWeDiDFQ2WTdYXzag3BAo="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/video.1ip9h76r9w.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/icons/video.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p8lWTYSEZXm3LZWacRQw1jqjQ3zT61rD8HZvT58Ioso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ip9h76r9w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/video.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8lWTYSEZXm3LZWacRQw1jqjQ3zT61rD8HZvT58Ioso="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/video.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/icons/video.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p8lWTYSEZXm3LZWacRQw1jqjQ3zT61rD8HZvT58Ioso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8lWTYSEZXm3LZWacRQw1jqjQ3zT61rD8HZvT58Ioso="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.esigtp5g82.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4qtDB0RngIr5AocaSTB16aleDDVgswWQOhA/gKgyiug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "esigtp5g82"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4qtDB0RngIr5AocaSTB16aleDDVgswWQOhA/gKgyiug="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/images/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4qtDB0RngIr5AocaSTB16aleDDVgswWQOhA/gKgyiug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4qtDB0RngIr5AocaSTB16aleDDVgswWQOhA/gKgyiug="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.6f9r9drxcn.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/ai0ruk677j-6f9r9drxcn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001757469244"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S2x+tKlzMRRJnaeRQ2Llm3kpJ+tcjBWIwoZXhVKpCug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"clUZSlZup9IXCTQsTqUxHpz/qRdOFHY0E/usgvp4yk4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6f9r9drxcn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-clUZSlZup9IXCTQsTqUxHpz/qRdOFHY0E/usgvp4yk4="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.6f9r9drxcn.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/js/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"clUZSlZup9IXCTQsTqUxHpz/qRdOFHY0E/usgvp4yk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6f9r9drxcn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-clUZSlZup9IXCTQsTqUxHpz/qRdOFHY0E/usgvp4yk4="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.6f9r9drxcn.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/ai0ruk677j-6f9r9drxcn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S2x+tKlzMRRJnaeRQ2Llm3kpJ+tcjBWIwoZXhVKpCug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6f9r9drxcn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S2x+tKlzMRRJnaeRQ2Llm3kpJ+tcjBWIwoZXhVKpCug="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/ai0ruk677j-6f9r9drxcn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001757469244"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S2x+tKlzMRRJnaeRQ2Llm3kpJ+tcjBWIwoZXhVKpCug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"clUZSlZup9IXCTQsTqUxHpz/qRdOFHY0E/usgvp4yk4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-clUZSlZup9IXCTQsTqUxHpz/qRdOFHY0E/usgvp4yk4="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/js/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"clUZSlZup9IXCTQsTqUxHpz/qRdOFHY0E/usgvp4yk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-clUZSlZup9IXCTQsTqUxHpz/qRdOFHY0E/usgvp4yk4="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/ai0ruk677j-6f9r9drxcn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S2x+tKlzMRRJnaeRQ2Llm3kpJ+tcjBWIwoZXhVKpCug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S2x+tKlzMRRJnaeRQ2Llm3kpJ+tcjBWIwoZXhVKpCug="
+        }
+      ]
+    },
+    {
+      "Route": "js/simplebar.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/q0f7r6u1f4-lxzyflrzcn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030094195"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3S/hsulGxaxDll3Tk0/inE2qxMeyURGKbPxarf9E5xg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l8KlAypSYEjheZwy103paC9XB/rvzbxigwjRIPxYZv8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8KlAypSYEjheZwy103paC9XB/rvzbxigwjRIPxYZv8="
+        }
+      ]
+    },
+    {
+      "Route": "js/simplebar.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/js/simplebar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8KlAypSYEjheZwy103paC9XB/rvzbxigwjRIPxYZv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8KlAypSYEjheZwy103paC9XB/rvzbxigwjRIPxYZv8="
+        }
+      ]
+    },
+    {
+      "Route": "js/simplebar.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/q0f7r6u1f4-lxzyflrzcn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3S/hsulGxaxDll3Tk0/inE2qxMeyURGKbPxarf9E5xg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3S/hsulGxaxDll3Tk0/inE2qxMeyURGKbPxarf9E5xg="
+        }
+      ]
+    },
+    {
+      "Route": "js/simplebar.lxzyflrzcn.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/q0f7r6u1f4-lxzyflrzcn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030094195"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3S/hsulGxaxDll3Tk0/inE2qxMeyURGKbPxarf9E5xg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l8KlAypSYEjheZwy103paC9XB/rvzbxigwjRIPxYZv8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxzyflrzcn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/simplebar.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8KlAypSYEjheZwy103paC9XB/rvzbxigwjRIPxYZv8="
+        }
+      ]
+    },
+    {
+      "Route": "js/simplebar.lxzyflrzcn.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/js/simplebar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8KlAypSYEjheZwy103paC9XB/rvzbxigwjRIPxYZv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxzyflrzcn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/simplebar.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8KlAypSYEjheZwy103paC9XB/rvzbxigwjRIPxYZv8="
+        }
+      ]
+    },
+    {
+      "Route": "js/simplebar.lxzyflrzcn.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/q0f7r6u1f4-lxzyflrzcn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3S/hsulGxaxDll3Tk0/inE2qxMeyURGKbPxarf9E5xg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxzyflrzcn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/simplebar.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3S/hsulGxaxDll3Tk0/inE2qxMeyURGKbPxarf9E5xg="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/o66dik8mrl-xtxxf3hu2r.gz",
       "Selectors": [
@@ -4214,6 +6104,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg="
+        }
+      ]
+    },
+    {
+      "Route": "js/uikit.min.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/kku2zubgzs-n9dwubpwf7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000021644553"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46200"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OIHMaErDkj/rnbyemQ1EXHPMZKQNn97ghSAXiAWySmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1XqHKE3ZHD6bryMzb4L7SF4U2bsVmOV1aRc00IFX5N0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XqHKE3ZHD6bryMzb4L7SF4U2bsVmOV1aRc00IFX5N0="
+        }
+      ]
+    },
+    {
+      "Route": "js/uikit.min.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/js/uikit.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XqHKE3ZHD6bryMzb4L7SF4U2bsVmOV1aRc00IFX5N0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XqHKE3ZHD6bryMzb4L7SF4U2bsVmOV1aRc00IFX5N0="
+        }
+      ]
+    },
+    {
+      "Route": "js/uikit.min.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/kku2zubgzs-n9dwubpwf7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OIHMaErDkj/rnbyemQ1EXHPMZKQNn97ghSAXiAWySmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OIHMaErDkj/rnbyemQ1EXHPMZKQNn97ghSAXiAWySmU="
+        }
+      ]
+    },
+    {
+      "Route": "js/uikit.min.n9dwubpwf7.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/kku2zubgzs-n9dwubpwf7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000021644553"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46200"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OIHMaErDkj/rnbyemQ1EXHPMZKQNn97ghSAXiAWySmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1XqHKE3ZHD6bryMzb4L7SF4U2bsVmOV1aRc00IFX5N0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n9dwubpwf7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/uikit.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XqHKE3ZHD6bryMzb4L7SF4U2bsVmOV1aRc00IFX5N0="
+        }
+      ]
+    },
+    {
+      "Route": "js/uikit.min.n9dwubpwf7.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/js/uikit.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XqHKE3ZHD6bryMzb4L7SF4U2bsVmOV1aRc00IFX5N0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n9dwubpwf7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/uikit.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XqHKE3ZHD6bryMzb4L7SF4U2bsVmOV1aRc00IFX5N0="
+        }
+      ]
+    },
+    {
+      "Route": "js/uikit.min.n9dwubpwf7.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/kku2zubgzs-n9dwubpwf7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OIHMaErDkj/rnbyemQ1EXHPMZKQNn97ghSAXiAWySmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n9dwubpwf7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/uikit.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OIHMaErDkj/rnbyemQ1EXHPMZKQNn97ghSAXiAWySmU="
         }
       ]
     },
@@ -21878,6 +24066,1496 @@
         {
           "Name": "integrity",
           "Value": "sha256-F1wMlgb/juW08DFUssW6Pm9EBKfjXXRiSK0F5FgXxJU="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushJScript.6w9j14fygc.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2barl5jcd2-6w9j14fygc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001315789474"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrepqDgQD8E0mrVoRASBPsHqKIieQoBW3GjkdRv7cJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1lkYw8Otty18ckku2fke1wRhL0YoLeJdoSgW/gabtZs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6w9j14fygc"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/scripts/shBrushJScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1lkYw8Otty18ckku2fke1wRhL0YoLeJdoSgW/gabtZs="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushJScript.6w9j14fygc.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushJScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1lkYw8Otty18ckku2fke1wRhL0YoLeJdoSgW/gabtZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6w9j14fygc"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/scripts/shBrushJScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1lkYw8Otty18ckku2fke1wRhL0YoLeJdoSgW/gabtZs="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushJScript.6w9j14fygc.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2barl5jcd2-6w9j14fygc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrepqDgQD8E0mrVoRASBPsHqKIieQoBW3GjkdRv7cJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6w9j14fygc"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/scripts/shBrushJScript.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrepqDgQD8E0mrVoRASBPsHqKIieQoBW3GjkdRv7cJw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushJScript.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2barl5jcd2-6w9j14fygc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001315789474"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrepqDgQD8E0mrVoRASBPsHqKIieQoBW3GjkdRv7cJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1lkYw8Otty18ckku2fke1wRhL0YoLeJdoSgW/gabtZs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1lkYw8Otty18ckku2fke1wRhL0YoLeJdoSgW/gabtZs="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushJScript.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushJScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1lkYw8Otty18ckku2fke1wRhL0YoLeJdoSgW/gabtZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1lkYw8Otty18ckku2fke1wRhL0YoLeJdoSgW/gabtZs="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushJScript.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2barl5jcd2-6w9j14fygc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrepqDgQD8E0mrVoRASBPsHqKIieQoBW3GjkdRv7cJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrepqDgQD8E0mrVoRASBPsHqKIieQoBW3GjkdRv7cJw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushXml.52a20dwd0l.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/50g4cl1mgq-52a20dwd0l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001096491228"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "911"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2we9wLkRt4U/TUuS8DnJ/AMarrrbfbIPETnwl0kTK7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"k8xkpdnZ0Xe48KIHCd3ojBg0g39IdEefTBxX+i2gJdo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52a20dwd0l"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/scripts/shBrushXml.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k8xkpdnZ0Xe48KIHCd3ojBg0g39IdEefTBxX+i2gJdo="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushXml.52a20dwd0l.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushXml.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k8xkpdnZ0Xe48KIHCd3ojBg0g39IdEefTBxX+i2gJdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52a20dwd0l"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/scripts/shBrushXml.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k8xkpdnZ0Xe48KIHCd3ojBg0g39IdEefTBxX+i2gJdo="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushXml.52a20dwd0l.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/50g4cl1mgq-52a20dwd0l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2we9wLkRt4U/TUuS8DnJ/AMarrrbfbIPETnwl0kTK7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52a20dwd0l"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/scripts/shBrushXml.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2we9wLkRt4U/TUuS8DnJ/AMarrrbfbIPETnwl0kTK7E="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushXml.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/50g4cl1mgq-52a20dwd0l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001096491228"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "911"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2we9wLkRt4U/TUuS8DnJ/AMarrrbfbIPETnwl0kTK7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"k8xkpdnZ0Xe48KIHCd3ojBg0g39IdEefTBxX+i2gJdo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k8xkpdnZ0Xe48KIHCd3ojBg0g39IdEefTBxX+i2gJdo="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushXml.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushXml.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k8xkpdnZ0Xe48KIHCd3ojBg0g39IdEefTBxX+i2gJdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k8xkpdnZ0Xe48KIHCd3ojBg0g39IdEefTBxX+i2gJdo="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shBrushXml.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/50g4cl1mgq-52a20dwd0l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2we9wLkRt4U/TUuS8DnJ/AMarrrbfbIPETnwl0kTK7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2we9wLkRt4U/TUuS8DnJ/AMarrrbfbIPETnwl0kTK7E="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shCore.7n9n0swffm.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/05sswnb5nz-7n9n0swffm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000111321385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8982"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PSlposrnjtWpWACgrMhaJvrIFvZcB5+GAKjSG3KPOPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bb9GVIefdbetJ+Jn99Lt7Qg3Otk5n9pyjQaNeR1UOtw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7n9n0swffm"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/scripts/shCore.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bb9GVIefdbetJ+Jn99Lt7Qg3Otk5n9pyjQaNeR1UOtw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shCore.7n9n0swffm.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shCore.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bb9GVIefdbetJ+Jn99Lt7Qg3Otk5n9pyjQaNeR1UOtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7n9n0swffm"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/scripts/shCore.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bb9GVIefdbetJ+Jn99Lt7Qg3Otk5n9pyjQaNeR1UOtw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shCore.7n9n0swffm.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/05sswnb5nz-7n9n0swffm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PSlposrnjtWpWACgrMhaJvrIFvZcB5+GAKjSG3KPOPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7n9n0swffm"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/scripts/shCore.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PSlposrnjtWpWACgrMhaJvrIFvZcB5+GAKjSG3KPOPs="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shCore.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/05sswnb5nz-7n9n0swffm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000111321385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8982"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PSlposrnjtWpWACgrMhaJvrIFvZcB5+GAKjSG3KPOPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bb9GVIefdbetJ+Jn99Lt7Qg3Otk5n9pyjQaNeR1UOtw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bb9GVIefdbetJ+Jn99Lt7Qg3Otk5n9pyjQaNeR1UOtw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shCore.js",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shCore.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bb9GVIefdbetJ+Jn99Lt7Qg3Otk5n9pyjQaNeR1UOtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bb9GVIefdbetJ+Jn99Lt7Qg3Otk5n9pyjQaNeR1UOtw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/scripts/shCore.js.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/05sswnb5nz-7n9n0swffm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PSlposrnjtWpWACgrMhaJvrIFvZcB5+GAKjSG3KPOPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PSlposrnjtWpWACgrMhaJvrIFvZcB5+GAKjSG3KPOPs="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCore.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2rd377t4db-pmrwgncoh8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000768049155"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xYwvgCFq2EdDpREU6TmyaaSGCbRWG2JjQGy6yPtkM1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HyD+mLfFbDyrfiQDr2tcWnn94hlvG6jrOOVUxIGQ3tw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HyD+mLfFbDyrfiQDr2tcWnn94hlvG6jrOOVUxIGQ3tw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCore.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCore.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HyD+mLfFbDyrfiQDr2tcWnn94hlvG6jrOOVUxIGQ3tw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HyD+mLfFbDyrfiQDr2tcWnn94hlvG6jrOOVUxIGQ3tw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCore.css.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2rd377t4db-pmrwgncoh8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xYwvgCFq2EdDpREU6TmyaaSGCbRWG2JjQGy6yPtkM1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xYwvgCFq2EdDpREU6TmyaaSGCbRWG2JjQGy6yPtkM1Y="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCore.pmrwgncoh8.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2rd377t4db-pmrwgncoh8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000768049155"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xYwvgCFq2EdDpREU6TmyaaSGCbRWG2JjQGy6yPtkM1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HyD+mLfFbDyrfiQDr2tcWnn94hlvG6jrOOVUxIGQ3tw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmrwgncoh8"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/styles/shCore.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HyD+mLfFbDyrfiQDr2tcWnn94hlvG6jrOOVUxIGQ3tw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCore.pmrwgncoh8.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCore.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HyD+mLfFbDyrfiQDr2tcWnn94hlvG6jrOOVUxIGQ3tw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmrwgncoh8"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/styles/shCore.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HyD+mLfFbDyrfiQDr2tcWnn94hlvG6jrOOVUxIGQ3tw="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCore.pmrwgncoh8.css.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2rd377t4db-pmrwgncoh8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xYwvgCFq2EdDpREU6TmyaaSGCbRWG2JjQGy6yPtkM1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmrwgncoh8"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/styles/shCore.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xYwvgCFq2EdDpREU6TmyaaSGCbRWG2JjQGy6yPtkM1Y="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCoreMidnight.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/vbnszsn43n-naq7nvi4fe.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000632111252"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1581"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTeqdxufjmmuyIuB6/jhywxEJB92zCQ6hLVsXFrmoJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3/PrTt8wU2hqINtxFk8AkoiG5d1HF7h9+zafq6MgRr8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/PrTt8wU2hqINtxFk8AkoiG5d1HF7h9+zafq6MgRr8="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCoreMidnight.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCoreMidnight.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/PrTt8wU2hqINtxFk8AkoiG5d1HF7h9+zafq6MgRr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/PrTt8wU2hqINtxFk8AkoiG5d1HF7h9+zafq6MgRr8="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCoreMidnight.css.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/vbnszsn43n-naq7nvi4fe.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTeqdxufjmmuyIuB6/jhywxEJB92zCQ6hLVsXFrmoJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTeqdxufjmmuyIuB6/jhywxEJB92zCQ6hLVsXFrmoJU="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCoreMidnight.naq7nvi4fe.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/vbnszsn43n-naq7nvi4fe.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000632111252"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1581"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTeqdxufjmmuyIuB6/jhywxEJB92zCQ6hLVsXFrmoJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3/PrTt8wU2hqINtxFk8AkoiG5d1HF7h9+zafq6MgRr8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "naq7nvi4fe"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/styles/shCoreMidnight.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/PrTt8wU2hqINtxFk8AkoiG5d1HF7h9+zafq6MgRr8="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCoreMidnight.naq7nvi4fe.css",
+      "AssetFile": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCoreMidnight.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/PrTt8wU2hqINtxFk8AkoiG5d1HF7h9+zafq6MgRr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "naq7nvi4fe"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/styles/shCoreMidnight.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/PrTt8wU2hqINtxFk8AkoiG5d1HF7h9+zafq6MgRr8="
+        }
+      ]
+    },
+    {
+      "Route": "syntax-highlighter/styles/shCoreMidnight.naq7nvi4fe.css.gz",
+      "AssetFile": "/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/vbnszsn43n-naq7nvi4fe.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTeqdxufjmmuyIuB6/jhywxEJB92zCQ6hLVsXFrmoJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 May 2024 21:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "naq7nvi4fe"
+        },
+        {
+          "Name": "label",
+          "Value": "syntax-highlighter/styles/shCoreMidnight.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTeqdxufjmmuyIuB6/jhywxEJB92zCQ6hLVsXFrmoJU="
         }
       ]
     }

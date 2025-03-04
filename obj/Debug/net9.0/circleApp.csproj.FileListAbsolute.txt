@@ -17,7 +17,6 @@
 /Users/apple/Documents/circleApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/apple/Documents/circleApp/obj/Debug/net9.0/scopedcss/bundle/circleApp.styles.css
 /Users/apple/Documents/circleApp/obj/Debug/net9.0/scopedcss/projectbundle/circleApp.bundle.scp.css
-/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/gdmcbvefej-b9sayid5wm.gz
 /Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/nmj9rftsjj-61n19gt1b8.gz
 /Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/o66dik8mrl-xtxxf3hu2r.gz
 /Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/wu78nm4nzf-bqjiyaj88i.gz
@@ -95,3 +94,14 @@
 /Users/apple/Documents/circleApp/obj/Debug/net9.0/circleApp.pdb
 /Users/apple/Documents/circleApp/obj/Debug/net9.0/circleApp.genruntimeconfig.cache
 /Users/apple/Documents/circleApp/obj/Debug/net9.0/ref/circleApp.dll
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/circleApp.sourcelink.json
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/d8yqscwtma-mz2bba8ryg.gz
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/6vx1o2vq8n-rssjosyve1.gz
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/ai0ruk677j-6f9r9drxcn.gz
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/q0f7r6u1f4-lxzyflrzcn.gz
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/kku2zubgzs-n9dwubpwf7.gz
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2barl5jcd2-6w9j14fygc.gz
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/50g4cl1mgq-52a20dwd0l.gz
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/05sswnb5nz-7n9n0swffm.gz
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/2rd377t4db-pmrwgncoh8.gz
+/Users/apple/Documents/circleApp/obj/Debug/net9.0/compressed/vbnszsn43n-naq7nvi4fe.gz

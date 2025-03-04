@@ -5,16 +5,56 @@
       "PackagePath": "staticwebassets/circleApp.ynftvsxcxm.bundle.scp.css"
     },
     {
-      "Id": "/Users/apple/Documents/circleApp/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/css/tailwind.css",
+      "PackagePath": "staticwebassets/css/tailwind.css"
     },
     {
       "Id": "/Users/apple/Documents/circleApp/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/images/favicon.png",
+      "PackagePath": "staticwebassets/images/favicon.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/images/icons/group-2.png",
+      "PackagePath": "staticwebassets/images/icons/group-2.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/images/icons/home.png",
+      "PackagePath": "staticwebassets/images/icons/home.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/images/icons/page.png",
+      "PackagePath": "staticwebassets/images/icons/page.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/images/icons/video.png",
+      "PackagePath": "staticwebassets/images/icons/video.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/js/simplebar.js",
+      "PackagePath": "staticwebassets/js/simplebar.js"
+    },
+    {
       "Id": "/Users/apple/Documents/circleApp/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/js/uikit.min.js",
+      "PackagePath": "staticwebassets/js/uikit.min.js"
     },
     {
       "Id": "/Users/apple/Documents/circleApp/wwwroot/lib/bootstrap/LICENSE",
@@ -255,6 +295,26 @@
     {
       "Id": "/Users/apple/Documents/circleApp/wwwroot/lib/jquery/dist/jquery.slim.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushJScript.js",
+      "PackagePath": "staticwebassets/syntax-highlighter/scripts/shBrushJScript.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shBrushXml.js",
+      "PackagePath": "staticwebassets/syntax-highlighter/scripts/shBrushXml.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/scripts/shCore.js",
+      "PackagePath": "staticwebassets/syntax-highlighter/scripts/shCore.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCore.css",
+      "PackagePath": "staticwebassets/syntax-highlighter/styles/shCore.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/circleApp/wwwroot/syntax-highlighter/styles/shCoreMidnight.css",
+      "PackagePath": "staticwebassets/syntax-highlighter/styles/shCoreMidnight.css"
     },
     {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.circleApp.props",

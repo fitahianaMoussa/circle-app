@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("circleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2ebf107bb1d987ff59595714d6477fac802d262")]
 [assembly: System.Reflection.AssemblyProductAttribute("circleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("circleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
